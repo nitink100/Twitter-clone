@@ -1,6 +1,6 @@
 # Ruby on Rails Social Media Platform 🐦
 
-A social media platform, developed from November 2022 to February 2023, that emulates core Twitter functionalities by integrating with the official Twitter API v2. The application provides users with a personalized feed, real-time search, and automated content refreshing.
+A social media platform, that emulates core Twitter functionalities by integrating with the official Twitter API v2. The application provides users with a personalized feed, real-time search, and automated content refreshing.
 
 ---
 
